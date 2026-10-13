@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+    --primary-bg:#444242;
+    --secondary-bg:#585656;
+    --primary-button:#326868;
+    --secondary-button:#487878;
+    --primary-color:#E5E5E5;
+    --first:#326868;
+    --second:#3D6C6C;
+    --third:#467A7A;
+    --hover-color:#1B5757;
+    --hover2-color:#345555;
+
+}
